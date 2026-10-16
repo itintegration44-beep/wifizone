@@ -1,0 +1,6 @@
+{
+  "name": "MikroTik WiFiZone & Mobile Money Manager",
+  "description": "Plateforme tout-en-un pour la gestion de Hotspot WiFiZone MikroTik, vente de forfaits par Orange Money & MTN MoMo, générateur de tickets et suivi des revenus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
